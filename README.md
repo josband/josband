@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jonah Osband. I just finished up my internship with BNY Mellon as a Software Engineer and I am entering my last semester at the University of Pittsburgh
+My name is Jonah Osband. I just finished up my internship with BNY Mellon as a Software Engineer and I am entering my last semester at the University of Pittsburgh. I have interests in Machine Learning and Cloud Computing.
 <!--
 **josband/josband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
