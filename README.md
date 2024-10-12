@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jonah Osband. I just finished up my internship with BNY Mellon as a Software Engineer and I am entering my last semester at the University of Pittsburgh. I have interests in Machine Learning and Cloud Computing.
+My name is Jonah Osband. I am a Software Engineer with Metron Inc. I recently graduated from the University of Pittsburgh! I have interests in learning lower level programming, Machine Learning, and the overall use of mathematical and statistical methods to solve complex problems.
 <!--
 **josband/josband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
